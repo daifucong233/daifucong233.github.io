@@ -1,0 +1,26 @@
+- title: Basic Information
+  type: list
+  contents:
+    - This is a course page for Seminar No.17 on Introduction to Computer Systems. If you have any problems or issues, please contact me on github or WeChat.
+
+- title: Course Schedule
+  type: time_table
+  contents:
+    - title: Dynamic Memory Allocation && Network Programming I
+      year: 12.13
+      description:
+        - Presentation given by 李思澜 and 谭震鲁.
+        - This should be a link to the ppt.
+
+    - title: Virtual Memory I&II
+      year: 12.6
+      description:
+        - Presentation given by 李伟涛 and 张科宇.
+        - <a href='files/12.6.pptx'>This is a link to the ppt.</a>
+
+- title: Course Materials and Recommended Readings
+  type: list
+  contents:
+    - <a href='files/Computer_Systems_A_Programmers_Perspective(3rd).pdf'>English Textbook</a>
+    - <a href='files/Intel® 64 and IA-32 Architectures Software Developer’s Manuals.pdf'>Intel® 64 and IA-32 Architectures Software Developer’s Manuals</a>
+    - <a href='https://disk.pku.edu.cn/#/link/0DE0A1208B451A6149117284753ACE2E'>Materials</a>
