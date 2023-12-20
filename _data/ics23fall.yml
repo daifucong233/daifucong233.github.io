@@ -1,22 +1,101 @@
 - title: Basic Information
   type: list
   contents:
-    - This is a course page for Seminar No.17 on Introduction to Computer Systems. If you have any problems or issues, please contact me on github or WeChat.
+    - This is a course page for Seminar 17 on Introduction to Computer Systems. If you have any problems or issues, please contact me on github or WeChat.
+    - p.s. if you are interested in how to build a website(like this one), you may want to fork <a href='https://github.com/alshedivat/al-folio'>this repo</a> and follow the README file.
 
 - title: Course Schedule
   type: time_table
   contents:
+    - title: Synchronization(Basic & Advanced)
+      year: 12.27
+      description:
+        - Final Review
+        - Presentation given by 范佳玥 and 董博瑄.
+        #- This should be a link to the ppt.
+  
+    - title: Network Programming II && Concurrent Programming
+      year: 12.20
+      description:
+        - Presentation given by 陈文健(changed to 覃大伟) and 田卓立.
+        - <a href='Ch12.pptx'>Chapter 12 slides</a>
+
     - title: Dynamic Memory Allocation && Network Programming I
       year: 12.13
       description:
         - Presentation given by 李思澜 and 谭震鲁.
-        - This should be a link to the ppt.
+        - <a href='0xd-network-2023_.pptx'>Chapter 11 slides</a>
 
     - title: Virtual Memory I&II
       year: 12.6
       description:
         - Presentation given by 李伟涛 and 张科宇.
-        - <a href='files/12.6.pptx'>This is a link to the ppt.</a>
+        - <a href='seminar_ppts/12.6.pptx'>Slides</a>
+    
+    - title: ECF II && System IO
+      year: 11.29
+      description:
+        - Presentation given by 夏廷轩 and 金翊涵.
+        - <a href='seminar_ppts/20+21.pptx'>Slides</a>
+    
+    - title: Linking II && ECF I
+      year: 11.22
+      description:
+        - Presentation given by 何子默 and 刘闯鸣.
+        - <a href='seminar_ppts/ECF1.pptx'>Slides</a>
+    
+    - title: Linking I
+      year: 11.15
+      description:
+        - Presentation given by 覃大伟(absent).
+        - <a href='seminar_ppts/链接1.pptx'>Slides</a>
+    
+    - title: Midterm Exam
+      year: 11.8
+      description:
+        - The materials are not handed out.
+    
+    - title: Cache Memories && Program optimization
+      year: 11.1
+      description:
+        - Midterm review.
+        - Presentation given by 赵天润, 谭震鲁 and 许焜琦.
+        - <a href='seminar_ppts/12+13+14.pptx'>Slides</a>
+    
+    - title: Processor Arch(SEQ & PIPE) && The Memory Hierarchy
+      year: 10.25
+      description:
+        - Presentation given by 金翊涵, 周尚博 and 李思澜.
+        - <a href='seminar_ppts/10+11.pptx'>Slides</a>
+    
+    - title: Machine Prog(Advanced) && Processor Arch(ISA & Logic)
+      year: 10.18
+      description:
+        - Presentation given by 张科宇 and 王智垚.
+        - <a href='seminar_ppts/08+09.pptx'>Slides</a>
+
+    - title: Machine Prog(Procedures & Data)
+      year: 10.11
+      description:
+        - Presentation given by 范佳玥 and 陈文健.
+        - <a href='seminar_ppts/06+07.pptx'>Slides</a>
+    
+    - title: Machine Prog(Basics & Control)
+      year: 9.27
+      description:
+        - Presentation given by 田卓立 and 夏廷轩.
+        - <a href='seminar_ppts/04+05upd.pptx'>Slides</a>
+
+    - title: Bits and Bytes/Integers && Floating Point
+      year: 9.20
+      description:
+        - Presentation given by 李伟涛 and 刘闯鸣.
+        - <a href='seminar_ppts/02+03upd.pptx'>Slides</a>
+    
+    - title: Overview
+      year: 9.13
+      description:
+        - Overview the course.
 
 - title: Course Materials and Recommended Readings
   type: list
@@ -24,3 +103,8 @@
     - <a href='files/Computer_Systems_A_Programmers_Perspective(3rd).pdf'>English Textbook</a>
     - <a href='files/Intel® 64 and IA-32 Architectures Software Developer’s Manuals.pdf'>Intel® 64 and IA-32 Architectures Software Developer’s Manuals</a>
     - <a href='https://disk.pku.edu.cn/#/link/0DE0A1208B451A6149117284753ACE2E'>Materials</a>
+    - <a href='files/程序员的自我修养—链接、装载与库--书签目录.pdf'>程序员的自我修养</a>
+    - <a href='files/22期末.zip'>22 Final</a>
+    - <a href='files/2021final_answer.zip'>21 Final</a>
+    - <a href='https://csdiy.wiki/'>csdiy</a>
+    - <a href='https://missing-semester-cn.github.io/'>Missing Semester</a>
