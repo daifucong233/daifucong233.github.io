@@ -1,8 +1,9 @@
 - title: Basic Information
   type: list
   contents:
+    - <h6 class="title font-weight-bold ml-1 ml-md-4">Seminar Instructor </h6><a href="https://wenfei-wu.github.io/" class="title font-weight-bold ml-1 ml-md-4">Wenfei Wu</a>
     - This is a course page for Seminar 17 on Introduction to Computer Systems. If you have any problems or issues, please contact me on github or WeChat.
-    - p.s. if you are interested in how to build a website(like this one), you may want to fork <a href='https://github.com/alshedivat/al-folio'>this repo</a> and follow the README file.
+    - p.s. if you are interested in how to build a website(like this one), you may want to fork <a href='https://github.com/alshedivat/al-folio'>this template</a> and follow the README file.
 
 - title: Course Schedule
   type: time_table
@@ -11,6 +12,9 @@
       year: 12.27
       description:
         - Final Review
+        - <a href='期末复习 2-6.pptx'>Chapter 2-6</a>
+        - <a href='期末复习 7-9.pptx'>Chapter 7-9</a>
+        - <a href='期末复习 10-12.pptx'>Chapter 10-12</a>
         - Presentation given by 范佳玥 and 董博瑄.
         #- This should be a link to the ppt.
   
@@ -105,6 +109,7 @@
     - <a href='https://disk.pku.edu.cn/#/link/0DE0A1208B451A6149117284753ACE2E'>Materials</a>
     - <a href='files/程序员的自我修养—链接、装载与库--书签目录.pdf'>程序员的自我修养</a>
     - <a href='files/22期末.zip'>22 Final</a>
+    - <a href='files/22期末答案.docx'>22 Final Key</a>
     - <a href='files/2021final_answer.zip'>21 Final</a>
     - <a href='https://csdiy.wiki/'>csdiy</a>
     - <a href='https://missing-semester-cn.github.io/'>Missing Semester</a>
