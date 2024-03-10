@@ -12,9 +12,9 @@
       year: 12.27
       description:
         - Final Review
-        - <a href='../assets/ics23fall/期末复习 2-6.pptx'>Chapter 2-6</a>
-        - <a href='../assets/ics23fall/期末复习 7-9.pptx'>Chapter 7-9</a>
-        - <a href='../assets/ics23fall/期末复习 10-12.pptx'>Chapter 10-12</a>
+        - <a href='../assets/ics23fall/seminar_ppts/期末复习 2-6.pptx'>Chapter 2-6</a>
+        - <a href='../assets/ics23fall/seminar_ppts/期末复习 7-9.pptx'>Chapter 7-9</a>
+        - <a href='../assets/ics23fall/seminar_ppts/期末复习 10-12.pptx'>Chapter 10-12</a>
         - Presentation given by 范佳玥 and 董博瑄.
         #- This should be a link to the ppt.
   
@@ -22,13 +22,13 @@
       year: 12.20
       description:
         - Presentation given by 陈文健(changed to 覃大伟) and 田卓立.
-        - <a href='../assets/ics23fall/Ch12.pptx'>Chapter 12 slides</a>
+        - <a href='../assets/ics23fall/seminar_ppts/Ch12.pptx'>Chapter 12 slides</a>
 
     - title: Dynamic Memory Allocation && Network Programming I
       year: 12.13
       description:
         - Presentation given by 李思澜 and 谭震鲁.
-        - <a href='../assets/ics23fall/0xd-network-2023_.pptx'>Chapter 11 slides</a>
+        - <a href='../assets/ics23fall/seminar_ppts/0xd-network-2023_.pptx'>Chapter 11 slides</a>
 
     - title: Virtual Memory I&II
       year: 12.6
@@ -88,7 +88,7 @@
       year: 9.27
       description:
         - Presentation given by 田卓立 and 夏廷轩.
-        - <a href='../assets/ics23fall/seminar_ppts/04+05upd.pptx'>Slides</a>
+        - <a href='../assets/ics23fall/seminar_ppts/04-05upd.pptx'>Slides</a>
 
     - title: Bits and Bytes/Integers && Floating Point
       year: 9.20
