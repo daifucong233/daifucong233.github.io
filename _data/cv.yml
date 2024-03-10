@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 12th January 2003
     - name: Languages
-      value: Chinese, English
+      value: Chinese(native), English
 
 - title: Education
   type: time_table
@@ -21,12 +21,11 @@
       #    contents:
       #      - Sub-description 1.
       #      - Sub-description 2.
-    #- title: High school education
-    #  institution: Shaoxing No.1 High School
-    #  year: 2018-2021
-    #  description:
-    #    - Description 1.
-    #    - Description 2.
+    - title: High school education
+      institution: Shaoxing No.1 High School
+      year: 2018-2021
+      description:
+        - Learn oi, developed algorithm designing and programming skills.
 
 - title: Experience
   type: time_table
@@ -40,17 +39,19 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - Scholarship
 
 - title: Contest Experience
   type: time_table
   contents:
+    - year: 2023
+      items:
+        - icpc
+    - year: 2022
+      items:
+        - icpc
     - year: 2020
       items:
         - NOI2020 Golden Medal
@@ -62,17 +63,17 @@
       items: 
         - NOIP2018 First Prize
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: Topic 1.
+#      items: 
+#        - Description 1.
+#        - Description 2.
+#    - title: Topic 2.
+#      items:
+#        - Description 1.
+#        - Description 2.
 
 - title: Other Interests
   type: list
