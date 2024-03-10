@@ -17,15 +17,15 @@ layout: default
           <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
           <div>
           {% if entry.type == "list" %}
-            {% include cv/list.html %}
+            {% include cv/list.liquid %}
           {% elsif entry.type == "map" %}
-            {% include cv/map.html %}
+            {% include cv/map.liquid %}
           {% elsif entry.type == "nested_list" %}
-            {% include cv/nested_list.html %}
+            {% include cv/nested_list.liquid %}
           {% elsif entry.type == "time_table" %}
-            {% include cv/time_table.html %}
+            {% include cv/time_table.liquid %}
           {% elsif entry.type == "list_groups" %}
-            {% include cv/list_groups.html %}
+            {% include cv/list_groups.liquid %}
           {% else %}
             {{ entry.contents }}
           {% endif %}

@@ -7,6 +7,8 @@
       value: 12th January 2003
     - name: Languages
       value: Chinese(native), English
+    - name: Programming Languages
+      value: C++, Python
 
 - title: Education
   type: time_table
@@ -25,7 +27,7 @@
       institution: Shaoxing No.1 High School
       year: 2018-2021
       description:
-        - Learn oi, developed algorithm designing and programming skills.
+        - Trained in algorithm contests, developed algorithm designing and programming skills.
 
 - title: Experience
   type: time_table
@@ -41,27 +43,38 @@
   contents:
     - year: 2023
       items: 
-        - Scholarship
+        - Yanchuang Capital Scholarship
+        - Tripple-A Student
+    - year: 2022
+      items:
+        - John Hopcroft Scholarship
+    - year: 2021
+      items: 
+        - Freshman Scholarship
 
 - title: Contest Experience
   type: time_table
   contents:
-    - year: 2023
+    - year: 2022-2023
       items:
-        - icpc
-    - year: 2022
+        - The 2022 ICPC Asia Hefei Regional Contest, Gold Medal
+        - The 2022 ICPC Asia Hong Kong Regional Contest, Gold Medal
+    - year: 2021-2022
       items:
-        - icpc
+        - The 2021 ICPC Asia Shanghai Regional Contest, Gold Medal
+        - The 2021 ICPC Asia Nanjing Regional Contest, Gold Medal
+        - The 7-th CCPC Weihai Contest, Gold Medal 
+        - The 2021 ICPC Asia-East Continent Final Contest, Gold Medal
     - year: 2020
       items:
-        - NOI2020 Golden Medal
-        - NOIP2020 First Prize
+        - NOI2020, Gold Medal
+        - NOIP2020, First Prize
     - year: 2019
       items: 
-        - CSP-S2019 First Prize
+        - CSP-S2019, First Prize
     - year: 2018
       items: 
-        - NOIP2018 First Prize
+        - NOIP2018, First Prize
 
 #- title: Academic Interests
 #  type: nested_list
@@ -78,4 +91,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> bamboo flute playing.
