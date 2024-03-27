@@ -17,7 +17,7 @@
         - <a href='../assets/ics23fall/seminar_ppts/期末复习 10-12.pptx'>Chapter 10-12</a>
         - Presentation given by 范佳玥 and 董博瑄.
         #- This should be a link to the ppt.
-  
+
     - title: Network Programming II && Concurrent Programming
       year: 12.20
       description:
@@ -35,43 +35,43 @@
       description:
         - Presentation given by 李伟涛 and 张科宇.
         - <a href='../assets/ics23fall/seminar_ppts/12.6.pptx'>Slides</a>
-    
+
     - title: ECF II && System IO
       year: 11.29
       description:
         - Presentation given by 夏廷轩 and 金翊涵.
         - <a href='../assets/ics23fall/seminar_ppts/20+21.pptx'>Slides</a>
-    
+
     - title: Linking II && ECF I
       year: 11.22
       description:
         - Presentation given by 何子默 and 刘闯鸣.
         - <a href='../assets/ics23fall/seminar_ppts/ECF1.pptx'>Slides</a>
-    
+
     - title: Linking I
       year: 11.15
       description:
         - Presentation given by 覃大伟(absent).
         - <a href='../assets/ics23fall/seminar_ppts/链接1.pptx'>Slides</a>
-    
+
     - title: Midterm Exam
       year: 11.8
       description:
         - The materials are not handed out.
-    
+
     - title: Cache Memories && Program optimization
       year: 11.1
       description:
         - Midterm review.
         - Presentation given by 赵天润, 谭震鲁 and 许焜琦.
         - <a href='../assets/ics23fall/seminar_ppts/12+13+14.pptx'>Slides</a>
-    
+
     - title: Processor Arch(SEQ & PIPE) && The Memory Hierarchy
       year: 10.25
       description:
         - Presentation given by 金翊涵, 周尚博 and 李思澜.
         - <a href='../assets/ics23fall/seminar_ppts/10+11.pptx'>Slides</a>
-    
+
     - title: Machine Prog(Advanced) && Processor Arch(ISA & Logic)
       year: 10.18
       description:
@@ -83,7 +83,7 @@
       description:
         - Presentation given by 范佳玥 and 陈文健.
         - <a href='../assets/ics23fall/seminar_ppts/06+07.pptx'>Slides</a>
-    
+
     - title: Machine Prog(Basics & Control)
       year: 9.27
       description:
@@ -95,7 +95,7 @@
       description:
         - Presentation given by 李伟涛 and 刘闯鸣.
         - <a href='../assets/ics23fall/seminar_ppts/02+03upd.pptx'>Slides</a>
-    
+
     - title: Overview
       year: 9.13
       description:

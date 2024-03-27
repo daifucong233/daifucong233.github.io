@@ -42,14 +42,14 @@
   type: time_table
   contents:
     - year: 2023
-      items: 
+      items:
         - Yanchuang Capital Scholarship
         - Tripple-A Student
     - year: 2022
       items:
         - John Hopcroft Scholarship
     - year: 2021
-      items: 
+      items:
         - Freshman Scholarship
 
 - title: Contest Experience
@@ -63,24 +63,24 @@
       items:
         - The 2021 ICPC Asia Shanghai Regional Contest, Gold Medal
         - The 2021 ICPC Asia Nanjing Regional Contest, Gold Medal
-        - The 7-th CCPC Weihai Contest, Gold Medal 
+        - The 7-th CCPC Weihai Contest, Gold Medal
         - The 2021 ICPC Asia-East Continent Final Contest, Gold Medal
     - year: 2020
       items:
         - NOI2020, Gold Medal
         - NOIP2020, First Prize
     - year: 2019
-      items: 
+      items:
         - CSP-S2019, First Prize
     - year: 2018
-      items: 
+      items:
         - NOIP2018, First Prize
 
 #- title: Academic Interests
 #  type: nested_list
 #  contents:
 #    - title: Topic 1.
-#      items: 
+#      items:
 #        - Description 1.
 #        - Description 2.
 #    - title: Topic 2.
