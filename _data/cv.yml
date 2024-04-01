@@ -2,93 +2,96 @@
   type: map
   contents:
     - name: Full Name
-      value: Fucong Dai
+      value: Albert Einstein
     - name: Date of Birth
-      value: 12th January 2003
+      value: 14th March 1879
     - name: Languages
-      value: Chinese(native), English
-    - name: Programming Languages
-      value: C++, Python
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: Undergraduate
-      institution: Peking University
-      year: 2021-
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
-        - Computer Science(Turing class)
-      #  - Description 2.
-      #  - title: Description 3.
-      #    contents:
-      #      - Sub-description 1.
-      #      - Sub-description 2.
-    - title: High school education
-      institution: Shaoxing No.1 High School
-      year: 2018-2021
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
       description:
-        - Trained in algorithm contests, developed algorithm designing and programming skills.
+        - Description 1.
+        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Teaching Assistant
-      institution: Peking University
-      year: 2023 Fall
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
       description:
-        - TA of Introduction to Computer System
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
+      description:
+        - Description 1.
+        - Description 2.
+
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
+
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
+      description:
+
+    - title: Associate Professor of Theoretical Physics
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1909 - 1911
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2023
+    - year: 1921
       items:
-        - Yanchuang Capital Scholarship
-        - Tripple-A Student
-    - year: 2022
+        - Nobel Prize in Physics
+        - Matteucci Medal
+    - year: 2029
       items:
-        - John Hopcroft Scholarship
-    - year: 2021
-      items:
-        - Freshman Scholarship
+        - Max Planck Medal
 
-- title: Contest Experience
-  type: time_table
+- title: Academic Interests
+  type: nested_list
   contents:
-    - year: 2022-2023
+    - title: Topic 1.
       items:
-        - The 2022 ICPC Asia Hefei Regional Contest, Gold Medal
-        - The 2022 ICPC Asia Hong Kong Regional Contest, Gold Medal
-    - year: 2021-2022
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
       items:
-        - The 2021 ICPC Asia Shanghai Regional Contest, Gold Medal
-        - The 2021 ICPC Asia Nanjing Regional Contest, Gold Medal
-        - The 7-th CCPC Weihai Contest, Gold Medal
-        - The 2021 ICPC Asia-East Continent Final Contest, Gold Medal
-    - year: 2020
-      items:
-        - NOI2020, Gold Medal
-        - NOIP2020, First Prize
-    - year: 2019
-      items:
-        - CSP-S2019, First Prize
-    - year: 2018
-      items:
-        - NOIP2018, First Prize
-
-#- title: Academic Interests
-#  type: nested_list
-#  contents:
-#    - title: Topic 1.
-#      items:
-#        - Description 1.
-#        - Description 2.
-#    - title: Topic 2.
-#      items:
-#        - Description 1.
-#        - Description 2.
+        - Description 1.
+        - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> bamboo flute playing.
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
